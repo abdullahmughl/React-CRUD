@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Abdullah Mughal",
+      "cmsID": "208012",
+      "email": "amughal.bscs17seecs@seecs.edu.pk",
+      "groupmembers": "Abdullah Mughal, Ammar Adnan",
+      "github": "https://github.com/abdullahmughl",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "cmsID": "123123",
+      "email": "test@gmail.com",
+      "groupmembers": "tester2",
+      "github": "test",
+      "id": 4
+    },
+    {
+      "name": "tester",
+      "cmsID": "32313",
+      "email": "tester@kdjkf.com",
+      "groupmembers": "tester",
+      "github": "tset",
+      "id": 5
+    }
+  ]
+}
