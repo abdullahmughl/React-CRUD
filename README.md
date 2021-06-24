@@ -15,7 +15,7 @@ Distribution of the project is shown at the end of each task.
 9. Update the README.md with the student names and CMS_ID listed at the end.
 10. Upload you group assignment as a git push. (Abdullah Mughal)
 
-Names: Abdullah Mughal (208012), Ammar Adnan ()
+Names: Abdullah Mughal (208012)
 
 Description: Bootstrap is used for designing. All records have an option to edit, view and delete. User will be able to add a student's record. The record contains Student name, CMS ID, email address, group members name and guthub url. Edit and add user takes a user to a new page. Clicking on the view button takes the user to a new page and that page shows complete details of a student. Because of shortage of time we were unable to implement firebase/mlab database. To store data, we are using JSON-server module which is storing data in a JSON file. 
 
